@@ -11,6 +11,7 @@
 - **Remove Listings:** Delete items that are no longer available.
 - **Product Details:** View comprehensive information about each grocery item, including images and descriptions.
 
+[![Whats-App-Image-2024-08-28-at-11-52-27-PM.jpg](https://i.postimg.cc/R0gMw6S7/Whats-App-Image-2024-08-28-at-11-52-27-PM.jpg)](https://postimg.cc/1gNhQzNX)
 
 ## Follow the steps below to set up and install the project dependencies.
 
@@ -33,7 +34,7 @@
    npm install
 3. In .env write your MongoDB url
    ```bash
-   MONGO_DB=Your_Url
+   MONGODB_URL=Your_Url
 
 ### Running the Project
 Follow the steps below to run the project in development mode.
