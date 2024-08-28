@@ -1,30 +1,45 @@
-# -Build-a-COMPLETE-Fullstack-ecommerce-Responsive-MERN-App-React-Redux-Nodejs-MongoDB-Express
- Build a COMPLETE Fullstack ecommerce Responsive MERN App | React, Redux, Nodejs, MongoDB, Express
+# GroceryMarket
 
-Backend Environment variables  : 
+### Welcome to GroceryMarket! This platform connects buyers and sellers, allowing users to purchase groceries directly from sellers and manage their listings efficiently.
 
-MONGODB_URL : ""
-STRIPE_SECRET_KEY : "",
-FRONTEND_URL : "",
+## Features
 
-MY Backend URL : https://backend-mern-kowt.onrender.com
-
-start : 
-
-## npm run dev 
+- **Browse Groceries:** Explore a variety of grocery items listed by different sellers.
+- **Buy Directly:** Purchase groceries directly from sellers with ease.
+- **List Products:** Sellers can list their items, including prices and details.
+- **Update Listings:** Modify product details and prices as needed.
+- **Remove Listings:** Delete items that are no longer available.
+- **Product Details:** View comprehensive information about each grocery item, including images and descriptions.
 
 
-Frontend Environment variables  :
+## Follow the steps below to set up and install the project dependencies.
 
-REACT_APP_SERVER_DOMIN = <backend url>
+### Client
 
-REACT_APP_ADMIN_EMAIL = <admin email id >
+1. Navigate to the client directory:
+   ```bash
+   cd client
+2. Install client dependencies:
+   ```bash
+   npm install
 
-REACT_APP_STRIPE_PUBLIC_KEY  = <stripe public key>
+### Server
 
-start : 
+1. Navigate to the server directory:
+   ```bash
+   cd server
+2. Install server dependencies:
+   ```bash
+   npm install
+3. In .env write your MongoDB url
+   ```bash
+   MONGO_DB=Your_Url
 
-## npm start
- 
- ## Full Video on Youtube : 
-    Dynamic Coding with Amit
+### Running the Project
+Follow the steps below to run the project in development mode.
+
+Development Mode
+
+1. Run the project in development mode:
+   ```bash
+   npm run dev
