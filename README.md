@@ -35,8 +35,7 @@
 
 ###
 
-[![Whats-App-Image-2024-08-28-at-11-52-27-PM.jpg](https://i.postimg.cc/R0gMw6S7/Whats-App-Image-2024-08-28-at-11-52-27-PM.jpg)](https://postimg.cc/1gNhQzNX)
-
+![grocery_store](./assets/grocery_store.jpg)
 ## Follow the steps below to set up and install the project dependencies.
 
 ### Client
